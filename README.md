@@ -67,7 +67,7 @@ java Main
 3. Buka browser dan akses file dengan mengetikkan *localhost/[folder anda]* pada bagian URL
 4. Maka secara otomatis Anda akan mengakses file index atau halaman utama dari web sistem ini
 
-##### d. Untuk Bahasa Pemrograman Pyhton
+##### d. Untuk Bahasa Pemrograman Python
 1. Simpan semua file dalam folder yang sama
 2. Buka lokasi penyimpanan folder pada terminal
 3. Jalankan
