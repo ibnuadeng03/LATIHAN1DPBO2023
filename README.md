@@ -62,9 +62,9 @@ javac *.java
 java Main
 ```
 ##### c. Untuk Bahasa Pemrograman PHP *(Hypertext Preprocessor)*
-1. Simpan semua file Anda ke dalam *C:\xampp\htdocs[folder anda]*
+1. Simpan semua file Anda ke dalam *C:\xampp\htdocs\[folder anda]*
 2. Jalankan Apache pada XAMPP Control panel
-3. Buka browser dan akses file dengan mengetikkan *localhost/[folder anda]* pada bagian URL
+3. Buka browser dan akses file dengan mengetikkan *localhost/[folder anda]/[nama file anda] (umumnya index.php)* pada bagian URL
 4. Maka secara otomatis Anda akan mengakses file index atau halaman utama dari web sistem ini
 
 ##### d. Untuk Bahasa Pemrograman Python
