@@ -45,7 +45,7 @@ c. Mahasiswa mampu memahami konsep Enkapsulasi dan implementasinya dalam Pemrogr
 + Python (diharapkan versi yang terbaru)
 
 ### Running and Instalation :
-##### C++
+##### a. Untuk Bahasa Pemrograman C++
 1. Simpan semua file dalam folder yang sama
 2. Buka lokasi penyimpanan folder pada terminal
 3. Jalankan
@@ -53,7 +53,7 @@ c. Mahasiswa mampu memahami konsep Enkapsulasi dan implementasinya dalam Pemrogr
 g++ main.cpp -o [nama file anda].exe
 [nama file anda].exe
 ```
-##### Java
+##### b. Untuk Bahasa Pemrograman Java
 1. Simpan semua file dalam folder yang sama
 2. Buka lokasi penyimpanan folder pada terminal
 3. Jalankan
@@ -61,11 +61,19 @@ g++ main.cpp -o [nama file anda].exe
 javac *.java
 java Main
 ```
-##### PHP *(Hypertext Preprocessor)*
+##### c. Untuk Bahasa Pemrograman PHP *(Hypertext Preprocessor)*
 1. Simpan semua file Anda ke dalam *C:\xampp\htdocs[folder anda]*
 2. Jalankan Apache pada XAMPP Control panel
 3. Buka browser dan akses file dengan mengetikkan *localhost/[folder anda]* pada bagian URL
 4. Maka secara otomatis Anda akan mengakses file index atau halaman utama dari web sistem ini
+
+##### d. Untuk Bahasa Pemrograman Pyhton
+1. Simpan semua file dalam folder yang sama
+2. Buka lokasi penyimpanan folder pada terminal
+3. Jalankan
+```
+py main.py
+```
 
 ### **Catatan**
 *Penjelasan dan/atau tampilan hasil program dari kode ini, dimuat didalam setiap folder yang berinduk difolder "Screenshoot"*
