@@ -24,9 +24,10 @@ c. Mahasiswa mampu memahami konsep Enkapsulasi dan implementasinya dalam Pemrogr
 > Saya Ibnu Adeng Kurnia NIM 2101769 mengerjakan latihan ke-1  dalam mata kuliah desain dan pemrograman berorientasi objek C2 2023
 	untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. 
 	Aamiin.
-> Design ini disusun dan/atau digunakan hanya untuk lingkungan sendiri.
+	
+*Design ini disusun dan/atau digunakan hanya untuk lingkungan sendiri.
 	Tidak untuk menjadi konsumsi/kepentingan umum.
-	Hanya untuk melengkapi tugas DPBO 2023.
+	Hanya untuk melengkapi tugas DPBO 2023.*
 
 ### Bahasa Pemrograman Yang Dipakai :
 - [X] [C++](https://www.duniailkom.com/tutorial-belajar-c-plus-plus-pengertian-bahasa-pemrograman-c-plus-plus/) : bahasa pemrograman komputer yang bisa dipakai untuk membuat berbagai aplikasi *(general-purpose programming language)*, dan merupakan pengembangan dari bahasa pemrograman C.
