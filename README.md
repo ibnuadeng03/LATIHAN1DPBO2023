@@ -78,6 +78,10 @@ java Main
 ```
 py main.py
 ```
+### Dokumentasi Running Program
+##### Berikut merupakan salah satu dokumentasi hasil running dalam bahasa pemrograman PHP
+![Hasil Screenshot](https://drive.google.com/file/d/1nNq08ejFzXc-P5APmJp6fiSCCO2sZeMW/view?usp=share_link)
+
 
 ### **Catatan**
 *Penjelasan dan/atau tampilan hasil program dari kode ini, dimuat didalam folder yang berinduk difolder "screenshoot".
