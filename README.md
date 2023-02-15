@@ -84,9 +84,9 @@ py main.py
 ##### ![PHP](/Latihan1/PHP/screenshot/2.jpg "2").
 
 ### **Catatan**
-*Penjelasan dan/atau tampilan hasil program dari kode ini, dimuat didalam folder yang berinduk difolder "screenshoot".
-Jika gambar screenshot/tangkapan layar tidak terbaca jelas setelah dilakukan zoom in, dengan hormat mohon untuk segera menghubungi saya di
-nomor +62 821 1932 2300; ibnuadeng0303@upi.edu atau @ibnuadeng0303@gmail.com.*
+*Penjelasan dan/atau tampilan hasil program keseluruhan dari kode ini, dimuat didalam folder yang berinduk difolder "screenshoot keseluruhan".
+Diatas merupakan visualisasi yang diwakilkan oleh bahasa pemrograman PHP. Jika gambar screenshot/tangkapan layar tidak terbaca jelas setelah 
+dilakukan zoom in, dengan hormat mohon untuk segera menghubungi saya.*
 TERIMA KASIH.
 
 
