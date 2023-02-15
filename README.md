@@ -81,7 +81,7 @@ py main.py
 ### Dokumentasi Running Program
 ##### Berikut merupakan salah satu dokumentasi hasil running dalam bahasa pemrograman PHP
 ##### ![PHP](/Latihan1/PHP/screenshot/1.jpg "1").
-
+##### ![PHP](/Latihan1/PHP/screenshot/2.jpg "2").
 
 ### **Catatan**
 *Penjelasan dan/atau tampilan hasil program dari kode ini, dimuat didalam folder yang berinduk difolder "screenshoot".
