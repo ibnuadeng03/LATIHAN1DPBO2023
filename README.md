@@ -80,7 +80,7 @@ py main.py
 ```
 ### Dokumentasi Running Program
 ##### Berikut merupakan salah satu dokumentasi hasil running dalam bahasa pemrograman PHP
-##### ![PHP](https://drive.google.com/drive/folders/1bWUt9s3DYtKKiVcaIb8Z5zpHk_yCI19d?usp=share_link)
+##### ![PHP](/Latihan1/PHP/screenshot/1.jpg "1").
 
 
 ### **Catatan**
