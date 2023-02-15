@@ -52,7 +52,7 @@ c. Mahasiswa mampu memahami konsep Enkapsulasi dan implementasinya dalam Pemrogr
 ##### a. Untuk Bahasa Pemrograman C++
 1. Simpan semua file dalam folder yang sama
 2. Buka lokasi penyimpanan folder pada terminal
-3. Jalankan
+3. Jalankan 
 ```
 g++ main.cpp -o [nama file anda].exe
 [nama file anda].exe
